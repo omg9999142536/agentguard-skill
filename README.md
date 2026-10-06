@@ -1,5 +1,7 @@
 # AgentGuard
 
+<p align="center"><img src="panel.png" alt="AgentGuard dashboard" width="380"></p>
+
 **Budget fuse for AI agents.** A ~200-line pure-stdlib Python proxy that
 sits between any OpenAI-compatible agent (Claude Code, Cline, aider,
 custom agents) and its paid API upstream. It meters every call, enforces
