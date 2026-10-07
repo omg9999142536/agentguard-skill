@@ -66,3 +66,10 @@ AG_PRICE_DEEPSEEK_CHAT=2.0,8.0         # in/out ¥ per 1M tokens
 ## License
 
 MIT
+
+---
+
+## Related Projects
+
+- **[memory-kit](https://github.com/omg9999142536/memory-kit)** 🧠 — A memory architecture for AI agents: orthogonal axes, daily GC, hash-chained clock, heartbeat panel. Built from the same production system.
+
