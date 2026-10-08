@@ -73,3 +73,11 @@ MIT
 
 - **[memory-kit](https://github.com/omg9999142536/memorykit)** 🧠 — A memory architecture for AI agents: orthogonal axes, daily GC, hash-chained clock, heartbeat panel. Built from the same production system.
 
+
+---
+
+## Support / 赞助
+
+If AgentGuard saves your token budget, consider buying me a coffee ☕
+
+- **Buy the Pro license (¥9.9)** or just say thanks: [afdian.com/a/3d28com](https://afdian.com/a/3d28com)
